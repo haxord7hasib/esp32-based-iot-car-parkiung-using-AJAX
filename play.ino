@@ -1,8 +1,4 @@
-/*
- * ESP32 AJAX Demo
- * Updates and Gets data from webpage without page refresh
- * https://circuits4you.com
- */
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
